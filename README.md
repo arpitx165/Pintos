@@ -3,7 +3,7 @@
 Pintos Project 1
 ================
 
-This is my solution of [Pintos](http://www.scs.stanford.edu/14wi-cs140/) Project 1.
+This is my solution of Pintos (https://web.stanford.edu/class/cs140/projects/pintos/pintos_2.html/) Project 1.
 
 
 NOTICE
