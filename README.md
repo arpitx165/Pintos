@@ -5,7 +5,7 @@
 
 This is my solution of Pintos (https://web.stanford.edu/class/cs140/projects/pintos/pintos_2.html/) Project 1.
 
-##                          Priority Scheduling Implementation Pintos
+##                          Priority Scheduling Implementation in Pintos
    
 #### Step :1 Installing and compiling Pintos on qemu simulator
         instruction following from this blog :-https://pintosiiith.wordpress.com/2012/09/13/install-pintos-with-qemu/
