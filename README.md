@@ -35,7 +35,6 @@ This is my solution of Pintos (https://web.stanford.edu/class/cs140/projects/pin
 
 This is my solution of the assignment, not the standard solution. The algorithm used in this project may not be the best.
 
-Documents are not provided in this repo.
 
 ### LICENSE 
     
